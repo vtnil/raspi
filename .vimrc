@@ -2,9 +2,9 @@ syntax on
 color elflord
 set number
 set smarttab
+set expandtab
 set tabstop=4
 set shiftwidth=4
-set expandtab
 set hlsearch
 set autoindent
 
