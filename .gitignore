@@ -1,1 +1,4 @@
-code/!*.[c|py]
+
+code/*
+!code/*.c
+!code/*.py

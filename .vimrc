@@ -6,6 +6,7 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 set hlsearch
+set autoindent
 
 
 let g:jellybeans_overrides = { 
